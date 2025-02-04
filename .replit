@@ -1,0 +1,11 @@
+run = "pip install -r requirements.txt && python main.py"
+modules = ["nodejs-20"]
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["pip install -r requirements.txt && python main.py"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80

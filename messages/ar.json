@@ -1,0 +1,28 @@
+{
+  "Auth": {
+    "name": "الاسم",
+    "namePlaceholder": "أدخل اسمك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أكد كلمة المرور",
+    "register": "تسجيل",
+    "login": "تسجيل الدخول",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "resetPassword": "إعادة تعيين كلمة المرور"
+  },
+  "Profile": {
+    "profileTitle": "الملف الشخصي",
+    "loading": "جار التحميل...",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "userType": "نوع المستخدم",
+    "business": "شركة",
+    "customer": "عميل",
+    "saveChanges": "حفظ التغييرات",
+    "editProfile": "تعديل الملف الشخصي"
+  }
+}
+

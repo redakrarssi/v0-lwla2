@@ -1,0 +1,28 @@
+{
+  "Auth": {
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "register": "Register",
+    "login": "Login",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset Password"
+  },
+  "Profile": {
+    "profileTitle": "User Profile",
+    "loading": "Loading...",
+    "name": "Name",
+    "email": "Email",
+    "userType": "User Type",
+    "business": "Business",
+    "customer": "Customer",
+    "saveChanges": "Save Changes",
+    "editProfile": "Edit Profile"
+  }
+}
+
